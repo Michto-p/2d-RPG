@@ -1,2 +1,2 @@
-# 2d-RPG
-# Test Rpg 2D Rétro Ruby/Gosu
+ 2d-RPG
+ Test Rpg 2D Rétro Ruby/Gosu
