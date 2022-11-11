@@ -1,2 +1,2 @@
- 2d-RPG
- Test Rpg 2D Rétro Ruby/Gosu
+Test de génération procedurale de donjon
+Génération Procédurale Drunkard Walk
